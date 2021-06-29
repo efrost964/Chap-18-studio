@@ -48,6 +48,24 @@ namespace chap_19_studio
                 }
             }
         }
+        
+        public static void PrintItem()
+        {
+            Console.WriteLine("What is the name of the item you would like removed?");
+            string name = Console.ReadLine().ToLower();
+
+            for (int i = MenuList.Count; i >= 0; i--)
+            {
+                if (name.Contains(MenuList[i].NameOfItem.ToLower()))
+                {
+                    Console.WriteLine($"{MenuList[i].NameOfItem}......${MenuList[i].Price}\n {MenuList[i].Description}.... Item added on {MenuList[i].CreationDate.Month}/{MenuList[i].CreationDate.Day}/{MenuList[i].CreationDate.Year}\n");
+                }
+                else
+                {
+                    Console.WriteLine("There is no item on the menu by that name.");
+                }
+            }
+        }
     }
 
 }
