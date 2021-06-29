@@ -65,6 +65,23 @@ namespace chap_19_studio
                 }
             }
         }
+        public override bool Equals(object obj)
+        {
+            MenuItem obj = new MenuItem(); 
+            bool equalsCheck = false;
+            foreach(MenuItem item in MenuList)
+            {
+                if(item.NameOfItem.Contains(obj.NameOfItem))
+                {
+                    equalsCheck = true;
+                }
+                else
+                {
+                    equalsCheck = false;
+                }
+            }
+            return equalsCheck;
+        }
     }
 
 }
