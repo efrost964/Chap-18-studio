@@ -1,0 +1,16 @@
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\bin\Debug\net5.0\chap-19-studio.exe
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\bin\Debug\net5.0\chap-19-studio.deps.json
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\bin\Debug\net5.0\chap-19-studio.runtimeconfig.json
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\bin\Debug\net5.0\chap-19-studio.runtimeconfig.dev.json
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\bin\Debug\net5.0\chap-19-studio.dll
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\bin\Debug\net5.0\ref\chap-19-studio.dll
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\bin\Debug\net5.0\chap-19-studio.pdb
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.csproj.AssemblyReference.cache
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.AssemblyInfoInputs.cache
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.AssemblyInfo.cs
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.csproj.CoreCompileInputs.cache
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.dll
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\ref\chap-19-studio.dll
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.pdb
+C:\Users\lumpysacks\Desktop\coding\launchCode\ResturauntMenu\chap-19-studio\chap-19-studio\obj\Debug\net5.0\chap-19-studio.genruntimeconfig.cache

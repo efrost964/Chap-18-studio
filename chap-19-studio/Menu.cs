@@ -11,7 +11,7 @@ namespace chap_19_studio
         public static List<MenuItem> MenuList = new List<MenuItem>();
         public static DateTime updatedOn = DateTime.Today;
 
-        public static void PrintItems()
+        public void PrintItems()
         {
             foreach (MenuItem item in MenuList)
             {
@@ -20,10 +20,9 @@ namespace chap_19_studio
             Console.WriteLine($"Menu updated on {updatedOn.Month}/{updatedOn.Day}/{updatedOn.Year}");
         }
 
-        public static void AddItem()
+        public void AddItem(string cat)
         {
-            Console.WriteLine("What is the type of item you wish to add?");
-            string category = "appetizer";
+            string category = cat;
             Console.WriteLine("What is the name of the item you wish to add?");
             string name = Console.ReadLine();
             Console.WriteLine("What is the price of the item?");
@@ -35,7 +34,7 @@ namespace chap_19_studio
             updatedOn = DateTime.Today;
         }
 
-        public static void RemoveItem()
+        public void RemoveItem()
         {
             Console.WriteLine("What is the name of the item you would like removed?");
             string name = Console.ReadLine();
@@ -49,7 +48,7 @@ namespace chap_19_studio
             }
         }
         
-        public static void PrintItem()
+        public void PrintItem()
         {
             Console.WriteLine("What is the name of the item you would like removed?");
             string name = Console.ReadLine().ToLower();
